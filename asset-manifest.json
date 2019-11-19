@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/FinalTestGP/static/css/main.1cd094b2.chunk.css",
+    "main.js": "/FinalTestGP/static/js/main.a66d18fd.chunk.js",
+    "main.js.map": "/FinalTestGP/static/js/main.a66d18fd.chunk.js.map",
+    "runtime-main.js": "/FinalTestGP/static/js/runtime-main.b973546f.js",
+    "runtime-main.js.map": "/FinalTestGP/static/js/runtime-main.b973546f.js.map",
+    "static/js/2.f421bf73.chunk.js": "/FinalTestGP/static/js/2.f421bf73.chunk.js",
+    "static/js/2.f421bf73.chunk.js.map": "/FinalTestGP/static/js/2.f421bf73.chunk.js.map",
+    "index.html": "/FinalTestGP/index.html",
+    "precache-manifest.0824783887226f196c9d8b84b787fb3e.js": "/FinalTestGP/precache-manifest.0824783887226f196c9d8b84b787fb3e.js",
+    "service-worker.js": "/FinalTestGP/service-worker.js",
+    "static/css/main.1cd094b2.chunk.css.map": "/FinalTestGP/static/css/main.1cd094b2.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b973546f.js",
+    "static/js/2.f421bf73.chunk.js",
+    "static/css/main.1cd094b2.chunk.css",
+    "static/js/main.a66d18fd.chunk.js"
+  ]
+}
