@@ -11,7 +11,7 @@ class Comment extends Component {
 
             .then(res => {
                 console.log('resdata :', res.data)
-                const alias=res.data.filter(it => it.postId ===params.id)
+                const alias=res.data.filter(it => it.postId ==params.id)
                 
         this.setState({
           comments: alias
